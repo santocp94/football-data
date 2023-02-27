@@ -1,0 +1,19 @@
+# AXES AND SPINES
+axes.linewidth: 2
+axes.spines.top: False
+axes.spines.left: True
+axes.spines.right: False
+axes.spines.bottom: True
+
+# GRID
+axes.grid: true                 # display grid or not
+grid.linestyle: --
+grid.alpha: 0.3
+grid.linewidth: 0.5
+grid.color: lightgrey           # grid color
+axes.axisbelow: True
+
+#TICKS
+axes.labelsize: 10              # font size of the x and y labels
+xtick.labelsize: 7             # font size of the x tick labels
+ytick.labelsize: 7
